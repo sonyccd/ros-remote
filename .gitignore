@@ -115,4 +115,9 @@ fabric.properties
 # .idea/misc.xml
 # *.ipr
 
+
+_site
+.sass-cache
+.jekyll-metadata
+
 # End of https://www.gitignore.io/api/webstorm,node
