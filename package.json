@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/sonyccd/ros-remote#readme",
   "dependencies": {
-    "bootstrap": "^3.3.7"
+    "bootstrap": "^3.3.7",
+    "fontawesome": "^4.7.2"
   }
 }
