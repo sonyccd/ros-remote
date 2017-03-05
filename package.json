@@ -1,0 +1,27 @@
+{
+  "name": "ros-remote",
+  "version": "1.0.0",
+  "description": "ros remote control web app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonyccd/ros-remote.git"
+  },
+  "keywords": [
+    "ros",
+    "ui",
+    "robotics"
+  ],
+  "author": "Brad Bazemore",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/sonyccd/ros-remote/issues"
+  },
+  "homepage": "https://github.com/sonyccd/ros-remote#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
