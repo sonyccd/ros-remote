@@ -52,7 +52,7 @@ gulp.task('sass', function() {
  * Minify images
  */
 gulp.task('imagemin', function() {
-  return gulp.src('src/img/**/*.{jpg,png,gif}')
+  return gulp.src('src/img/**/*.{jpg,png,gif,svg}')
       .pipe(plumber())
       .pipe(imagemin({ optimizationLevel: 3, progressive: true, interlaced: true }))
       .pipe(gulp.dest('assets/img/'));
