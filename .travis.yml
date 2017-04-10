@@ -5,3 +5,6 @@ before_install:
   - npm install
 install: gem install jekyll
 script: gulp
+
+notifications:
+  email: false
