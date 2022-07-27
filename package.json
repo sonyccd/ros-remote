@@ -29,7 +29,7 @@
     "fontawesome": "^4.7.2",
     "gulp-concat": "^2.6.1",
     "gulp-csso": "^2.0.0",
-    "gulp-imagemin": "^3.1.1",
+    "gulp-imagemin": "^8.0.0",
     "gulp-plumber": "^1.1.0",
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "^2.0.0"
